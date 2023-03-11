@@ -1,0 +1,13 @@
+[user]
+  name = Eugênio Moreira
+  email = me@eugeniomoreira.com
+[core]
+  editor = vim
+  longpaths = true
+  autocrlf = input
+  excludesfile = ~/.gitignore
+[init]
+  defaultBranch = main
+  templateDir = ~/.git_templates
+[pull]
+  ff = only
